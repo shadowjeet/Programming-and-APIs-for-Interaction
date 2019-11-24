@@ -115,7 +115,7 @@ class SearchTicketPage extends StatelessWidget {
                         child: Padding(
                           padding: const EdgeInsets.all(10.0),
                           child: Text(
-                            'Schedule not found!\nPlease search for another sation.',
+                            'Schedule not found!\nPlease search for another station.',
                             style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 20.0,
