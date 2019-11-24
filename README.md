@@ -1,5 +1,5 @@
 # Programming-and-APIs-for-Interaction
-Coursework Exam Hand In 2
+Coursework Exam Hand In 2 [Instruction to run the application]
 
 The repository contains the source code of train ticket purchasing android application. 
 
