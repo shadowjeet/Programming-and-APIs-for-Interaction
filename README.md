@@ -13,6 +13,8 @@ Sort steps:
 3) Click and install the "setup_nra.apk" from the android phone.
 4) The application will run.
 
+Note*: .apk file could not be uploaded into git repository as it exceed 25 MB size. The .apk file is around 40 MB in size. Therefore, it is available in trello card.
+
 ## << OR >> ##
 
 Long steps:
